@@ -1,4 +1,4 @@
-import { Validator } from './validator.js';
+import { Validator } from './node_modules/auto-alidation-form/validator.js';
 
 // sử dụng thư viện
 // Validator('id của form cần validate', 'options') {} *id của form cần validate được hiểu là formSelector
